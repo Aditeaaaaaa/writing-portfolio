@@ -101,4 +101,8 @@ It's not just for coders. It's a shared online space where teams manage projects
 
 ### Why I wrote this 📝
 
-If you've heard "Jira" thrown around and felt that quiet "I probably should
+If you've heard "Jira" thrown around and felt that quiet "I probably should know this" feeling: you're not behind. Curiosity doesn't need a reason to wait. Sometimes you just look it up.
+
+*Credit to the [Jira tutorial video](https://www.youtube.com/watch?v=GPOWZSxEslU) that made this click for me.*
+
+[Original post on LinkedIn](https://www.linkedin.com/posts/aditi-rana-74244016a_jira-tutorial-for-beginners-learn-jira-activity-7482717891713191936-8bDw)
