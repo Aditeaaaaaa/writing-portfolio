@@ -2,6 +2,14 @@
 
 Hi, I'm Aditi! I explain technical things in plain English for people who don't work in tech. I have a background in telecommunications engineering (Master of Engineering, former Graduate Engineer at Telstra), and I now work in customer support.
 
+
+### ⭐ Featured: full how-to guide
+
+**[Stop Video Calls Dropping: Set Up QoS on an ASUS Router](asus-qos-guide.md)**: a 7-step guide with screenshots, tested on my own router, including what QoS can and can't do.
+
+### Short explainers
+
+
 Each piece below was first published on [my LinkedIn](https://www.linkedin.com/in/aditi-rana-74244016a).
 
 **Contents**
